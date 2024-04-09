@@ -29,6 +29,8 @@ https://600f07e114306.streamlock.net/TT_TELETUTTO/livestream/playlist.m3u8
 https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8
 #EXTINF:-1,Telemantova
 https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8
+#EXTINF:-1,Cremona 1
+https://cdn2.streamshow.it/cloud-cremona1/cremona1/chunklist.m3u8?uid=7548-1
 #EXTINF:-1,20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
