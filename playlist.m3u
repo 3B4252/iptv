@@ -94,29 +94,31 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&force
 https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
 #EXTINF:-1,ALMA TV
 https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
-#EXTINF:-1,I Love - The Beach
+#EXTINF:-1 group-title="Radio",I Love - The Beach
 https://www.ilovemusic.de/ilovethebeach.m3u
-#EXTINF:-1,BBC Radio 1
+#EXTINF:-1 group-title="Radio",BBC Radio 1
 http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_one.m3u8
-#EXTINF:-1,538 Dance Department
+#EXTINF:-1 group-title="Radio",538 Dance Department
 http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3
-#EXTINF:-1,SLAM!
+#EXTINF:-1 group-title="Radio",Radio Record Liquid Funk
+https://radiorecord.hostingradio.ru/liquidfunk96.aacp
+#EXTINF:-1 group-title="Radio",SLAM!
 https://25443.live.streamtheworld.com/SLAM_MP3_SC
-#EXTINF:-1,SLAM! Non Stop
+#EXTINF:-1 group-title="Radio",SLAM! Non Stop
 http://stream.radiocorp.nl/web10_mp3
-#EXTINF:-1,Milestone Radio UK
+#EXTINF:-1 group-title="Radio",Milestone Radio UK
 http://cupcake.citrus3.com:8380/stream
-#EXTINF:-1,Funky Radio
+#EXTINF:-1 group-title="Radio",Funky Radio
 https://my.streamingmedia.it/listen/discofunk/play
-#EXTINF:-1,Romeo and Juliet
+#EXTINF:-1 group-title="Radio",Romeo and Juliet
 https://onair7.xdevel.com/proxy/xautocloud_vovi_2030?mp=/;1/
-#EXTINF:-1,Radio 60 70 80
+#EXTINF:-1 group-title="Radio",Radio 60 70 80
 https://ice.studiopiu.net/607080.aac
-#EXTINF:-1,Radio Studio Piu 
+#EXTINF:-1 group-title="Radio",Radio Studio Piu 
 http://ice.studiopiu.net/rete.aac
-#EXTINF:-1,Radio Studio Piu TV
+#EXTINF:-1 group-title="Radio",Radio Studio Piu TV
 https://5a1178b42cc03.streamlock.net/studiopiutv/studiopiutv/playlist.m3u8
-#EXTINF:-1,Radio Swiss Pop 
+#EXTINF:-1 group-title="Radio",Radio Swiss Pop 
 https://stream.srg-ssr.ch/m/rsp/aacp_96
-#EXTINF:-1,Art of Music
+#EXTINF:-1 group-title="Radio",Art of Music
 https://artofmusic.radioca.st/stream/1/
