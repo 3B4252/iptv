@@ -20,7 +20,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 #EXTINF:-1,LA7
 https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8
 #EXTINF:-1,TV8
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1765997323~exp=1765997623~acl=/*~hmac=f0ba76317922fe98a3c752094893d1b012975f801ad9d3e4c5e0bb2d1cd705e9&CMCD=cid=7,mtp=500,ot=m,sf=h,sid="0ddbee98-0a74-4305-a526-10ca0e4f5bc0
+https://mytivu.it/Application/Channels/TV8.php
 #EXTINF:-1,NOVE
 https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
 #EXTINF:-1,TT TELETUTTO
