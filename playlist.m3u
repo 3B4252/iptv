@@ -112,3 +112,5 @@ https://stream.srg-ssr.ch/m/rsp/aacp_96
 https://artofmusic.radioca.st/stream/1/
 #EXTINF:-1 group-title="Radio",Radio Capital Funky Town
 https://streamcdnr11-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapitalfunkytown/radiocapitalfunkytown/play1.m3u8
+#EXTINF:-1 group-title="Radio",Radio Capital XMAS
+http://streamcdnf36-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalclassicrock/live.m3u8
