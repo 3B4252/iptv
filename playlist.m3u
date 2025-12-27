@@ -114,3 +114,5 @@ https://artofmusic.radioca.st/stream/1/
 https://streamcdnr11-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapitalfunkytown/radiocapitalfunkytown/play1.m3u8
 #EXTINF:-1 group-title="Radio",Radio Capital XMAS
 http://streamcdnf36-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalclassicrock/live.m3u8
+#EXTINF:-1 group-title="Radio",Radio Piterpan
+https://klasse1.fluidstream.eu/piterpan?FLID=2&type=.aac
